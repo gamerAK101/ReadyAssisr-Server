@@ -1,0 +1,22 @@
+{
+  "name": "readyassist-server",
+  "version": "1.0.0",
+  "description": "Server Implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamerAK101/ReadyAssist-Server.git"
+  },
+  "author": "AK's",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gamerAK101/ReadyAssist-Server/issues"
+  },
+  "homepage": "https://github.com/gamerAK101/ReadyAssist-Server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
